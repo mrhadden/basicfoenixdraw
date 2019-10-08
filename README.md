@@ -9,7 +9,7 @@ Run cmake.bat
 This should build the BIN/HEX
 
 With output like this:
-
+***
 G:\devprojects\6502\GitBasicDraw>cmake
 Could Not Find G:\devprojects\6502\GitBasicDraw\basic.s
 WDC 65816 C   Version 3.49  Jan 19 2006 14:38:08
@@ -46,3 +46,4 @@ myprog.hex
 myprog.s28.hex
         2 file(s) copied.
 myprog.bin
+***
