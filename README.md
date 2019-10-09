@@ -1,10 +1,11 @@
 # basicfoenixdraw
 Basic Drawing in C on the C256 Foenix
-
+(Make changes to cmake.bat as needed for your environment)
 
 To build open a command line and switch to the cloned directory.
 
-Run cmake.bat
+
+Run cmake.bat 
 
 This should build the BIN/HEX
 
